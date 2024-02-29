@@ -44,6 +44,8 @@ Final result
 ![Password generator final result](https://github.com/raytrilla/Password-Generator/assets/151631423/c218dde0-eb48-42b9-b258-38c9e096f244)
 
 
-Live application link:
+Live application link: 
+https://raytrilla.github.io/Password-Generator/
 
 Github repository Link:
+https://github.com/raytrilla/Password-Generator
